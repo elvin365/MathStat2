@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\elvin\source\repos\mathstat2.1\mathstat2.1\source.cpp(85): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\mathstat2.1\mathstat2.1\source.cpp(92): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\mathstat2.1\mathstat2.1\source.cpp(78): warning C4101: c: неиспользованная локальная переменная
+c:\users\elvin\source\repos\mathstat2.1\mathstat2.1\source.cpp(149): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\mathstat2.1\mathstat2.1\source.cpp(151): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  mathstat2.1.vcxproj -> C:\Users\Elvin\source\repos\mathstat2.1\Debug\mathstat2.1.exe
